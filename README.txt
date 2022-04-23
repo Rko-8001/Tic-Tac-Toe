@@ -1,19 +1,7 @@
-Name : Yadwinder Singh
-Entry No.: 2020CSB1143
+Hi everyone, this time I worked on one of the famous game TicTacToe. It is coded in java as per instructions and using basics of OOPS in Java. 
 
-TicTacToe : CS202 Lab 2
-
-Files included :
-    TicTacToe.java
-    README.txt
-    Player.class
-    PlayingBoard.class
-    TicTacToe.class
-
-Classes: (TicTacToe.java) 
-    Player
-    PlayingBoard
-    TicTacToe
+Unforunately, right now you can play it on terminal only. I am working on user-interface using JJava APIs. 
+Right now, for best user and gaming experience, i would suggest to go through this readme file. 
 
 Packages Used: 
     java.util.*;
@@ -90,3 +78,15 @@ Methods Defined:
 Implementation:
     Enough number of comments are there to ubderstand the logic and syntax is kept simple and 
     readiblilty of code is good.
+    
+Files included :
+    TicTacToe.java
+    README.txt
+    Player.class
+    PlayingBoard.class
+    TicTacToe.class
+
+Classes: (TicTacToe.java) 
+    Player
+    PlayingBoard
+    TicTacToe
